@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="192" y2="192" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="42" fill="url(#bg)"/>
+  <!-- Inner Shield -->
+  <path d="M96 24 L154 46 C154 114 96 168 96 168 C96 168 38 114 38 46 L96 24 Z" fill="#ffffff" opacity="0.95"/>
+  <!-- MYV Monogram -->
+  <g fill="#1e40af">
+    <path d="M60 68 L68 68 L82 98 L96 68 L104 68 L104 114 L96 114 L96 84 L85 108 L79 108 L68 84 L68 114 L60 114 Z"/>
+    <path d="M94 108 L114 74 L124 74 L102 118 L88 118 L94 108 Z" opacity="0.9"/>
+    <path d="M112 92 L120 78 L128 78 L116 102 Z" opacity="0.8"/>
+  </g>
+  <circle cx="96" cy="134" r="5" fill="#eab308"/>
+</svg>

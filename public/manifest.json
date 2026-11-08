@@ -1,0 +1,16 @@
+{
+  "short_name": "MYV VPN",
+  "name": "Mutiganda Yvan VPN",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#1d4ed8",
+  "display": "standalone",
+  "orientation": "portrait"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Mutiganda Yvan VPN",
+  "description": "High-performance Android VPN tunneling application with custom payload, SNI, HTTP proxy, and DNSTT support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

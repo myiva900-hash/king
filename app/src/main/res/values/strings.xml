@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mutiganda Yvan VPN</string>
+    <string name="vpn_service_desc">Secure High-Speed VPN Tunnel for Rwanda &amp; Global Networks</string>
+    <string name="notification_title">Mutiganda Yvan VPN Connected</string>
+    <string name="notification_connected">VPN Tunnel is active and encrypted.</string>
+</resources>
